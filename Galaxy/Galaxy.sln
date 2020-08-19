@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GalaxyWebApp", "GalaxyWebApp\GalaxyWebApp.csproj", "{8E76C01E-DE4C-4DEB-83E0-A8EDC2FADFD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E76C01E-DE4C-4DEB-83E0-A8EDC2FADFD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E76C01E-DE4C-4DEB-83E0-A8EDC2FADFD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E76C01E-DE4C-4DEB-83E0-A8EDC2FADFD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E76C01E-DE4C-4DEB-83E0-A8EDC2FADFD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08A6F055-056A-491B-9100-31FC4178E249}
+	EndGlobalSection
+EndGlobal
